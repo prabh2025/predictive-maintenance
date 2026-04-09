@@ -1,6 +1,17 @@
+fastapi
+uvicorn
 scikit-learn
 xgboost
 pandas
 numpy
+sqlalchemy
+psycopg2-binary
+mlflow
+dagshub
 joblib
+pytest
+matplotlib
+seaborn
+pydantic
+prometheus-client
 gradio
