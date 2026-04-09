@@ -1,0 +1,10 @@
+models/
+*.pkl
+*.joblib
+data/
+__pycache__/
+*.db
+models/
+*.pkl
+*.joblib
+data/
